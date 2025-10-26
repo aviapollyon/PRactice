@@ -1,2 +1,6 @@
 this is main branch
+<<<<<<< Updated upstream
 and this is another user editing the file
+=======
+this is me editing the file
+>>>>>>> Stashed changes
